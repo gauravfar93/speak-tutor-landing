@@ -38,4 +38,11 @@ initial={{ opacity: 0, y: 40 }}
 whileInView={{ opacity: 1, y: 0 }}
 transition={{ duration: 0.3, ease: "easeOut" }}
 
-Netlify Link : https://voluble-valkyrie-3b4284.netlify.app/
+## 🚀 Live Demo
+
+🌐 **Live Site:** [View on Netlify](https://voluble-valkyrie-3b4284.netlify.app/)
+
+🎥 **Demo Video:** [Watch Screen Recording](https://drive.google.com/file/d/1rSu7r7NYDsaENtpfK2cGiY2N_c9W36Ql/view?usp=sharing)
+
+---
+
