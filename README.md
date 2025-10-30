@@ -37,3 +37,5 @@ Each section fades and slides into view with smooth easing:
 initial={{ opacity: 0, y: 40 }}
 whileInView={{ opacity: 1, y: 0 }}
 transition={{ duration: 0.3, ease: "easeOut" }}
+
+Netlify Link : https://voluble-valkyrie-3b4284.netlify.app/
